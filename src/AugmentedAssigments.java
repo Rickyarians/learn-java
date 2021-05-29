@@ -12,5 +12,13 @@ public class AugmentedAssigments {
         System.out.println(a = a * 10);
         System.out.println(a = a / 10);
         System.out.println(a = a % 10);
+
+        // augmented
+        int c = 2;
+        System.out.println(c += 10);
+        System.out.println(c -= 10);
+        System.out.println(c *= 10);
+
+
     }
 }
